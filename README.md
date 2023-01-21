@@ -9,7 +9,7 @@
 * The task is saved in the local storage and displayed evrytime when the user opens or refreshes the page.
 
 
-💡 See live version here: []()
+💡 See live version here: [https://edogtheninja.github.io/Work-Day-Scheduler/](https://edogtheninja.github.io/Work-Day-Scheduler/)
 
 ### **Preview**
 
